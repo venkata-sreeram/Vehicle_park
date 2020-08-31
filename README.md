@@ -22,12 +22,14 @@ Vehicle_Park is a Virtual Vehicle Parking Management System in which its a Web B
                     --> cick on Go on the Right side
 4) It will Display some Table in which we havt specify the content follow the below steps to enter ( Only fill the below mentioned Column Headings -- Remaining Leave as it ease )
 
-  Name               Type     Length/values
-name                VARCHAR        20
-phone_number        VARCHAR        30
-address             VARCHAR        10
-username            VARCHAR        220
-password            VARCHAR        20
+ Name-Type-Length/Values
+ 
+ 
+name--VARCHAR--20
+phone_number--VARCHAR--30
+address--VARCHAR--10
+username--VARCHAR--220
+password--VARCHAR--20
 
 5) Now, the table is Reday Click on save.
 6) It will show the Structure of your Table
