@@ -41,7 +41,7 @@ RUN IT IN YOUR BROWSER by using the following Command.... ( localhost/vehicle-pa
 #### Happy Learning ####
 
 @ by Intern team at Brain O Vision
-In case if you found any errors or any doubts feel free to rech us:
+In case if you found any errors or any doubts feel free to reach us:
 venkatasreeam14@gmail.com
 
 Thank you !
