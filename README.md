@@ -8,15 +8,16 @@ Vehicle_Park is a Virtual Vehicle Parking Management System in which its a Web B
 ### How to Launch the Project ###
 
 1) So, You have Downloaded the Vehicle_Park Project......
-2) First step is --> Put All the Files in one Folder ( Name it as vehicle-park )
-                 --> Put the Folder in Xamp Htdocs Folder ( C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XAMPP )
-                 --> Now Launch XAMP and Start both Apache Server & MySQL server.
-                 --> goto your Browser and Type ( localhost )
-                 --> Click on PHPMyadmin ( on the Nav bar )
-                 --> Click on the Database on the Nav Bar
-                 --> Enter ( vehicle_park ) name in Database name & ( utf8mb4_general_ci ) as Encodeing
-                 --> and click on Create
-                 --> it will ask you to create a table.
+2) First step is 
+--> Put All the Files in one Folder ( Name it as vehicle-park )
+--> Put the Folder in Xamp Htdocs Folder ( C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XAMPP )
+--> Now Launch XAMP and Start both Apache Server & MySQL server.
+--> goto your Browser and Type ( localhost )
+--> Click on PHPMyadmin ( on the Nav bar )
+--> Click on the Database on the Nav Bar
+--> Enter ( vehicle_park ) name in Database name & ( utf8mb4_general_ci ) as Encodeing
+--> and click on Create
+--> it will ask you to create a table.
 3) Creating a Table --> Enter table name as ( customers ) and No.of.Columns as ( 5 
                     --> cick on Go on the Right side
 4) It will Display some Table in which we havt specify the content follow the below steps to enter ( Only fill the below mentioned Column Headings -- Remaining Leave as it ease )
